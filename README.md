@@ -19,4 +19,13 @@ Develop a modern data warehouse using SQL to consolidate sales data, enabling An
 -------------------------------------------------
 ### BI Analytics & Reporting (Data Analytics)
 
-#### objectives
+#### objective
+Develop SQL-based analytics to deliver detailed insights into
+**customer behavior**
+**product performance**
+**sales trends**
+
+these insights empower stack holders with key business metrics, enabling strategic decision making.
+
+## About Me
+Hi there! I'm **Emad Fayed Ismael** and i am BI & Data Analytics Engineer worked on many fields like Fintech, Sales, Hiring, Supply Chain..etc.
