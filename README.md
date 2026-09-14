@@ -3,6 +3,7 @@ Welcome to the **Data Warehouse And Analytics Project** repository
 this project demonstrates a comprehensive data warehousing and analytics solution, from building data warehouse to generating actionable insights. Designed as a portfolio project highlight industry best practices in data engineering and analytics.
 
 Archecture link : https://github.com/emadfayed011190/SQL-data-warehouse-project/blob/main/Docs/etl_arch.png
+Data Flow Diagram link : 
 
 ----------------------------------------
 ## Project Requirements
